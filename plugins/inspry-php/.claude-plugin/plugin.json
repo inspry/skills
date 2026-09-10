@@ -1,7 +1,7 @@
 {
   "name": "inspry-php",
   "description": "WordPress-focused PHP skills for Inspry: syntax linting with php -l, plus code review, security, and best-practices skills to follow.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Inspry",
     "url": "https://github.com/inspry"
