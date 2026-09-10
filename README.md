@@ -29,6 +29,7 @@ Everything ships in one plugin, **`inspry-php`**.
 | `php-review` | 🔜 Soon | WordPress-focused PHP code review.                              |
 | `php-security` | 🔜 Soon | Security audit for WordPress PHP (escaping, nonces, sanitize). |
 | `php-best-practices` | 🔜 Soon | WordPress PHP best-practices guidance.               |
+| `php-commit`   | 🔜 Soon | Generate commit messages for WordPress PHP changes.            |
 
 Skills activate automatically when your request matches. You don't invoke them
 manually.
