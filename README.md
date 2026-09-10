@@ -9,14 +9,14 @@ the same skills and updates with one command.
 In Claude Code, add the marketplace, then install the plugin:
 
 ```
-/plugin marketplace add inspry/inspry-skills
-/plugin install inspry-php@inspry-skills
+/plugin marketplace add inspry/skills
+/plugin install inspry-php@skills
 ```
 
 That's it. Restart Claude Code if prompted. To update later:
 
 ```
-/plugin marketplace update inspry-skills
+/plugin marketplace update skills
 ```
 
 ## What's included

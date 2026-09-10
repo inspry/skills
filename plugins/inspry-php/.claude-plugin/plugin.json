@@ -6,6 +6,6 @@
     "name": "Inspry",
     "url": "https://github.com/inspry"
   },
-  "homepage": "https://github.com/inspry/inspry-skills",
+  "homepage": "https://github.com/inspry/skills",
   "keywords": ["wordpress", "php", "lint", "syntax", "php -l"]
 }
